@@ -16,3 +16,7 @@ int main(){
     cout << total ; 
     return 0 ; 
 }
+
+
+// this works like cross product of vectors similar to how product of two vectors give us the area constrained by them 
+//similarly we took two axis as vectors and multiplied both of them to form the square grid and get the total number of tiles to form that grid structure 
